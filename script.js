@@ -156,7 +156,7 @@ const _slideEnam = function () {
 new TypeIt("#teks1", {
   strings: ["THE NIGHT WE MET I KNEW I NEDDED YOU SO AND IF I HAD THE CHANCE I'D NEVER LET YOU GO", "", "SO WONT YOU SAY YOU LOVE ME? I'LL MAKE YOU SO PROUD OF ME .", "WE'LL MAKE THEM TURN THEIR HEADS EVRY PLACE WE GO ." , "SO WON'T YOU, PLEASE(BE MY,BE MY BABY) BE MY LITTLE BABY?(MY ONE AND ONLY BABY)."],
   startDelay: 2000,
-  speed: 30,
+  speed: 140,
   waitUntilVisible: true
 }).go();
 
