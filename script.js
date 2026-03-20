@@ -160,12 +160,12 @@ new TypeIt("#teks1", {
   waitUntilVisible: true
 }).go();
 
-new TypeIt("#teks2", {
+/*new TypeIt("#teks2", {
  strings: ["", " ", "- Wish Karlena ","something good"],
   startDelay: 100,
   speed: 50,
   waitUntilVisible: true
-}).go();
+}).go();*/
 
 
 new TypeIt("#trims", {
