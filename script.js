@@ -162,7 +162,7 @@ new TypeIt("#teks1", {
 
 new TypeIt("#teks2", {
   strings: ["", " ", "", " ", "- Wish"],
-  startDelay: 20,
+  startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
